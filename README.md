@@ -4,5 +4,5 @@
 - Extraer datos de ficheros (en este caso trabajaremos con ficheros .rdf)
 - Crear un gulpfile para automatizar las descargas de lso datos con los que vamos a trabajar
 - Desarrollo de pruebas usando mocha y chai
-
+- Travis para control y tag de pruebas en el repositorio.
 
