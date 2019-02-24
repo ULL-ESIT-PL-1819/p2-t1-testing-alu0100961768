@@ -4,5 +4,3 @@ node_js:
 npm:
  - "6.5.0"
 
-before_install:
- - cd database
