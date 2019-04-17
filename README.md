@@ -117,4 +117,5 @@ Tambien podemos, de forma opcional, añadir integración continua con Travis, mo
 
 ### Alumno
 <b>Nombre:</b> Germán Alfonso Teixidó.
+
 <b>Alu:</b> alu0100961768.
